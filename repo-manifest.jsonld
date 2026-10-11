@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/action-general-autotag/commit/7d2ae9fb8015632ad3bfefecc0096368366e281d",
       "git:hexsha": "7d2ae9fb8015632ad3bfefecc0096368366e281d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.0.1"
     },
     {
