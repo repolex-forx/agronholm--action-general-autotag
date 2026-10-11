@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "action-general-autotag",
+  "versions": [
+    {
+      "commit": "7d2ae9fb8015632ad3bfefecc0096368366e281d",
+      "tag": "1.0.1",
+      "parsed_at": "2026-10-11T21:33:23.789797+00:00"
+    }
+  ]
+}
