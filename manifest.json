@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "action-general-autotag",
+  "versions": [
+    {
+      "commit": "7d2ae9fb8015632ad3bfefecc0096368366e281d",
+      "parsed_at": "2026-10-11T21:30:53.799734+00:00",
+      "tag": "1.0.1",
+      "filetree": "filetree/7d2ae9fb8015632ad3bfefecc0096368366e281d.nq.gz",
+      "blobs": [
+        "blob/07c2592ac1cb8af723553fdfef8a62998d1f687b.nq.gz",
+        "blob/608ee7f31a8cdfe2946430d91c84200e885d2e45.nq.gz",
+        "blob/b4dda4853ea7a8414482fa3e146445cff8305db4.nq.gz",
+        "blob/75e1cea3c519be7a59ca2debcc53c91a366344a0.nq.gz",
+        "blob/2ba891f39c5fe321d366514586106aff3dfcd2f0.nq.gz",
+        "blob/7775d4e178f70db739147e3169769243b21a2284.nq.gz",
+        "blob/7c0c456ca9c267fae8ec6af7ffb94f25f553900a.nq.gz",
+        "blob/43d395e608c05d994ad9170e94774178d06a6b9c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
